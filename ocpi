@@ -1,0 +1,14 @@
+
+OCPI    Open Charge Point Interface
+
+CDR     Charge Detail Record
+
+AFIREV stands for: Association Française pour l’Itinérance de la Recharge Électrique des Véhicules
+
+
+Connector  est une prise ou un câble spécifique que le VE peut utiliser.
+
+L'EVSE est la partie qui contrôle l'alimentation électrique d'un seul VE en une seule session. Un EVSE peut fournir
+       plusieurs mais un seul de ces connecteurs peut être actif en même temps.
+       
+La localisation est un groupe d'une ou plusieurs EVSE qui appartiennent ensemble géographiquement ou spatialement
